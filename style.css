@@ -1,0 +1,12 @@
+.mock-up {
+    position: relative;
+    text-align: center;
+}
+.mock-up img {
+    max-width: 100%;
+    height: auto
+}
+.img-container {
+    display: inline-block;
+    position: relative;
+}
